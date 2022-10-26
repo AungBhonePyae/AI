@@ -1,0 +1,2 @@
+python==3.1
+streamlit==1.13
